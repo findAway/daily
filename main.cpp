@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "Hello, USA!" << std::endl;
-    std::cout << "Hello, Lily!" << std::endl;
+    std::cout << "Hello, China!" << std::endl;
+	std::cout << "Hello, HanMeimei!" << std::endl;
     return 0;
 }
